@@ -1335,3 +1335,10 @@ mapswithme
 *isoline|step_10
 *isoline|zero
 *complex_entry
+*amenity|recycling|batterie
+*amenity|recycling|clothes
+*amenity|recycling|glass_bottles
+*amenity|recycling|paper
+*amenity|recycling|plastic
+*amenity|recycling|plastic_bottles
+*amenity|recycling|small_appliances

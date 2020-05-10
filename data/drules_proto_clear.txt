@@ -7257,6 +7257,251 @@ cont {
   }
 }
 cont {
+  name: "amenity-recycling-batterie"
+  element {
+    scale: 17
+    symbol {
+      name: "recycling-m"
+      priority: 16455
+      min_distance: 30
+    }
+  }
+  element {
+    scale: 18
+    symbol {
+      name: "recycling-m"
+      priority: 16455
+      min_distance: 30
+    }
+  }
+  element {
+    scale: 19
+    symbol {
+      name: "recycling-m"
+      priority: 16455
+      min_distance: 30
+    }
+    caption {
+      primary {
+        height: 10
+        color: 4473924
+        offset_y: 1
+      }
+      priority: 15455
+    }
+  }
+}
+cont {
+  name: "amenity-recycling-clothes"
+  element {
+    scale: 17
+    symbol {
+      name: "recycling-m"
+      priority: 16455
+      min_distance: 30
+    }
+  }
+  element {
+    scale: 18
+    symbol {
+      name: "recycling-m"
+      priority: 16455
+      min_distance: 30
+    }
+  }
+  element {
+    scale: 19
+    symbol {
+      name: "recycling-m"
+      priority: 16455
+      min_distance: 30
+    }
+    caption {
+      primary {
+        height: 10
+        color: 4473924
+        offset_y: 1
+      }
+      priority: 15455
+    }
+  }
+}
+cont {
+  name: "amenity-recycling-glass_bottles"
+  element {
+    scale: 17
+    symbol {
+      name: "recycling-m"
+      priority: 16455
+      min_distance: 30
+    }
+  }
+  element {
+    scale: 18
+    symbol {
+      name: "recycling-m"
+      priority: 16455
+      min_distance: 30
+    }
+  }
+  element {
+    scale: 19
+    symbol {
+      name: "recycling-m"
+      priority: 16455
+      min_distance: 30
+    }
+    caption {
+      primary {
+        height: 10
+        color: 4473924
+        offset_y: 1
+      }
+      priority: 15455
+    }
+  }
+}
+cont {
+  name: "amenity-recycling-paper"
+  element {
+    scale: 17
+    symbol {
+      name: "recycling-m"
+      priority: 16455
+      min_distance: 30
+    }
+  }
+  element {
+    scale: 18
+    symbol {
+      name: "recycling-m"
+      priority: 16455
+      min_distance: 30
+    }
+  }
+  element {
+    scale: 19
+    symbol {
+      name: "recycling-m"
+      priority: 16455
+      min_distance: 30
+    }
+    caption {
+      primary {
+        height: 10
+        color: 4473924
+        offset_y: 1
+      }
+      priority: 15455
+    }
+  }
+}
+cont {
+  name: "amenity-recycling-plastic"
+  element {
+    scale: 17
+    symbol {
+      name: "recycling-m"
+      priority: 16455
+      min_distance: 30
+    }
+  }
+  element {
+    scale: 18
+    symbol {
+      name: "recycling-m"
+      priority: 16455
+      min_distance: 30
+    }
+  }
+  element {
+    scale: 19
+    symbol {
+      name: "recycling-m"
+      priority: 16455
+      min_distance: 30
+    }
+    caption {
+      primary {
+        height: 10
+        color: 4473924
+        offset_y: 1
+      }
+      priority: 15455
+    }
+  }
+}
+cont {
+  name: "amenity-recycling-plastic_bottles"
+  element {
+    scale: 17
+    symbol {
+      name: "recycling-m"
+      priority: 16455
+      min_distance: 30
+    }
+  }
+  element {
+    scale: 18
+    symbol {
+      name: "recycling-m"
+      priority: 16455
+      min_distance: 30
+    }
+  }
+  element {
+    scale: 19
+    symbol {
+      name: "recycling-m"
+      priority: 16455
+      min_distance: 30
+    }
+    caption {
+      primary {
+        height: 10
+        color: 4473924
+        offset_y: 1
+      }
+      priority: 15455
+    }
+  }
+}
+cont {
+  name: "amenity-recycling-small_appliances"
+  element {
+    scale: 17
+    symbol {
+      name: "recycling-m"
+      priority: 16455
+      min_distance: 30
+    }
+  }
+  element {
+    scale: 18
+    symbol {
+      name: "recycling-m"
+      priority: 16455
+      min_distance: 30
+    }
+  }
+  element {
+    scale: 19
+    symbol {
+      name: "recycling-m"
+      priority: 16455
+      min_distance: 30
+    }
+    caption {
+      primary {
+        height: 10
+        color: 4473924
+        offset_y: 1
+      }
+      priority: 15455
+    }
+  }
+}
+cont {
   name: "amenity-restaurant"
   element {
     scale: 15

@@ -98,7 +98,15 @@ world  +
         prison  -
         pub  -
         public_bookcase  -
-        recycling  -
+        recycling  +
+            batterie  -
+            clothes  -
+            glass_bottles  -
+            paper  -
+            plastic  -
+            plastic_bottles  -
+            small_appliances  -
+            {}
         restaurant  -
         school  -
         shelter  -

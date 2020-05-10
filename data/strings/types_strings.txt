@@ -2517,6 +2517,41 @@
     sk = Zberné suroviny
     fa = مرکز بازیافت
 
+  [type.amenity.recycling.batterie]
+    en = Recycling container for batteries
+    ru = Приём батареек
+    uk = Прийом батарейок
+
+  [type.amenity.recycling.clothes]
+    en = Recycling container for clothes
+    ru = Приём старой одежды
+    uk = Прийом старого одягу
+
+  [type.amenity.recycling.glass_bottles]
+    en = Recycling container for glass bottles
+    ru = Приём стеклотары
+    es = Reciclaje de vidrio
+    uk = Прийом склотари
+
+  [type.amenity.recycling.paper]
+    en = Recycling container for paper
+    ru = Приём макулатуры
+    uk = Прийом макулатури
+
+  [type.amenity.recycling.plastic]
+    en = Recycling container for plastic
+    ru = Приём пластика на переработку
+    uk = Прийом пластику на переробку
+
+  [type.amenity.recycling.plastic_bottles]
+    en = Recycling container for plastic bottles
+    ru = Приём пластиковых бутылок
+
+  [type.amenity.recycling.small_appliances]
+    en = Recycling container for small appliances
+    ru = Приём электрприборов на переработку
+    uk = Прийом електроприладів на переробку
+
   [type.amenity.restaurant]
     en = Restaurant
     ru = Ресторан

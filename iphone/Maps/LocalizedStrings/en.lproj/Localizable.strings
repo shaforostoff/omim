@@ -3508,6 +3508,20 @@
 
 "type.amenity.recycling" = "Recycling Center";
 
+"type.amenity.recycling.batterie" = "Recycling container for batterie";
+
+"type.amenity.recycling.clothes" = "Recycling container for clothes";
+
+"type.amenity.recycling.glass_bottles" = "Recycling container for glass bottles";
+
+"type.amenity.recycling.paper" = "Recycling container for paper";
+
+"type.amenity.recycling.plastic" = "Recycling container for plastic";
+
+"type.amenity.recycling.plastic_bottles" = "Recycling container for plastic bottles";
+
+"type.amenity.recycling.small_appliances" = "Recycling container for small appliances";
+
 "type.amenity.restaurant" = "Restaurant";
 
 "type.amenity.school" = "School";
