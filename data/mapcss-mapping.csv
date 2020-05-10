@@ -1335,3 +1335,12 @@ isoline|step_50;1334;
 isoline|step_10;1335;
 isoline|zero;1336;
 complex_entry;[complex_entry];;name;int_name;1337;
+recycling|batterie;1338
+recycling|clothes;1339
+recycling|glass_bottles;1340
+recycling|paper;1341
+recycling|plastic;1342
+recycling|plastic_bottles;1343
+recycling|small_appliances;1344
+recycling_type|container;1345
+recycling_type|centre;1346

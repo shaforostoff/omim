@@ -832,6 +832,19 @@ world  +
             tunnel  -
             {}
         {}
+    recycling  +
+        batterie  -
+        clothes  -
+        glass_bottles  -
+        paper  -
+        plastic  -
+        plastic_bottles  -
+        small_appliances  -
+        {}
+    recycling_type  +
+        container  -
+        centre  -
+        {}
     route  +
         ferry  +
             motor_vehicle  -
